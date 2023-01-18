@@ -8,4 +8,4 @@ I'm a Full Stack Software Engineer who graduated from California State Univesity
 
 ## Some of my open source contributions 🌎: 
 - <a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Abryanleemoore">FreeCodeCamp Learning</a>
-- <a href="https://github.com/freeCodeCamp/chapter/pulls?q=is%3Apr+author%3Abryanleemoore">FreeCodeCamp Chapter Tool</a> 🏓💼
+- <a href="https://github.com/freeCodeCamp/chapter/pulls?q=is%3Apr+author%3Abryanleemoore">FreeCodeCamp Chapter Tool</a>
