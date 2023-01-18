@@ -6,3 +6,6 @@
 
 I'm a Full Stack Software Engineer who graduated from California State Univesity, Long Beach in May of 2022. Passionate and curious about all things technology and engineering due to it's ability to move the world forward, improve lives, and bring people together. Currently, my interests include open source contributing and learning more full stack technologies.
 
+## Some of my open source contributions 🌎: 
+- <a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Abryanleemoore">FreeCodeCamp Learning</a>
+- <a href="https://github.com/freeCodeCamp/chapter/pulls?q=is%3Apr+author%3Abryanleemoore">FreeCodeCamp Chapter Tool</a> 🏓💼
