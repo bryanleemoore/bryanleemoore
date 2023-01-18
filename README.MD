@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Bryan Moore</h1>
+<h1 align="center">Hi, I'm Bryan Moore 👋</h1>
