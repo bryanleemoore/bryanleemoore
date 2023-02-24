@@ -6,7 +6,7 @@
 
 I'm an aspiring Full Stack Software Engineer who graduated from California State Univesity, Long Beach in May of 2022 with a B.S. degree in Computer Science. Passionate and curious about all things technology and engineering due to it's ability to move the world forward, improve lives, and bring people together. Currently, my interests include open source contributing and learning more full stack technologies. Always wanting to learn more and gain new skills!
 
-## What I'm currently working on 👨‍💻: 
+## What I'm currently working on 👨🏻‍💻: 
 - <a href="https://github.com/bryanleemoore/alexa-gpt">Alexa GPT Skill</a> 
      - This project uses the GPT API from OpenAI in order to intelligently respond to any of the user's questions.
      - Technologies being used: Typescript, AWS, Lambda, Node.js, DynamoDB, OpenAI API.
