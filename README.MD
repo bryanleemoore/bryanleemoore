@@ -26,4 +26,4 @@ I'm an aspiring Full Stack Software Engineer who graduated from California State
 - **Databases:** 
      - MongoDB, DynamoDB, PostgreSQL, MySQL, Apache Derby
 - **Tooling and Services:**
-     - Jest, Docker, AWS, GCP, Webpack, NPM, Lambda, CloudWatch, Git, Linux, Mac, VS Code
+     - Jest, Docker, AWS, GCP, Webpack, ESLint, Prettier, NPM, Lambda, CloudWatch, Git, Linux, Mac, VS Code
