@@ -17,3 +17,13 @@ I'm an aspiring Full Stack Software Engineer who graduated from California State
 ## Some of my open source contributions 🌎: 
 - <a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Abryanleemoore">FreeCodeCamp Learning</a>
 - <a href="https://github.com/freeCodeCamp/chapter/pulls?q=is%3Apr+author%3Abryanleemoore">FreeCodeCamp Chapter Tool</a>
+
+## Some technologies I have worked with:  
+- **Languages:** 
+     - TypeScript, JavaScript, Python, Java, C++, C#, HTML, CSS
+- **Frameworks and Libraries:**
+     - React.js, Node.js, Express.js, Django, .NET, Bootstrap
+- **Databases:** 
+     - MongoDB, DynamoDB, PostgreSQL, MySQL, Apache Derby
+- **Tooling and Services:**
+     - Jest, Docker, AWS, GCP, Webpack, NPM, Lambda, CloudWatch, Git, Linux, Mac, VS Code
