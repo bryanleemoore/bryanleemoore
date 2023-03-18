@@ -14,7 +14,7 @@ I'm an aspiring Full Stack Software Engineer who graduated from California State
 - <a href="https://github.com/bryanleemoore/alexa-gpt">Alexa GPT Skill</a> 
      - This project uses the GPT API from OpenAI in order to intelligently respond to any of the user's questions.
 
-## Some of my open source contributions 🌎: 
+## My open source contributions 🌎: 
 - <a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Abryanleemoore">FreeCodeCamp Learning</a>
 - <a href="https://github.com/freeCodeCamp/chapter/pulls?q=is%3Apr+author%3Abryanleemoore">FreeCodeCamp Chapter Tool</a>
 
