@@ -9,7 +9,7 @@ I'm a Full Stack Software Engineer who graduated from California State Univesity
 ## What I'm currently working on 👨🏻‍💻: 
 - <a href="https://github.com/bryanleemoore/ask-sdk-postgresql-persistence-adapter">ask-sdk-postgresql-persistence-adapter</a> 
      - A PostgreSQL persistence adapter for Alexa Skills Kit.
-     - <a href="https://www.npmjs.com/package/ask-sdk-postgresql-persistence-adapter">npm package link</a>
+     - <a href="https://www.npmjs.com/package/ask-sdk-postgresql-persistence-adapter">npm install ask-sdk-postgresql-persistence-adapter</a>
 
 - <a href="https://github.com/bryanleemoore/alexa-gpt">Alexa GPT Skill</a> 
      - This project uses the OpenAI's API with GPT in order to intelligently respond to any of the user's questions.
